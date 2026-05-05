@@ -100,8 +100,8 @@ Despite time constraints and team commitments, we successfully solved multiple c
 ## 🤝 Connect With Me
 Feel free to connect or discuss cybersecurity topics!
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: (add your link)
+- GitHub: https://github.com/AzimSource
+- LinkedIn: Khairul Azim
 
 ---
 
